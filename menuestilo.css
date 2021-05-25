@@ -1,0 +1,18 @@
+/* area de estudo*/
+* {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 12px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  color: ivory;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 17px;
+  padding: 15px 15px;
+  margin: 0 auto;
+}

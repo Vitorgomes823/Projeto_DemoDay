@@ -1,0 +1,4 @@
+SlateBlue3 #6959CD (105,89,205)
+DarkSlateBlue #483D8B (72,61,139)
+MidnightBlue #191970 (25,25,112)
+indigo #4B0082
